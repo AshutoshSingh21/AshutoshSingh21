@@ -1,28 +1,21 @@
-## Hi there 👋
 
-<!--
-**AshutoshSingh21/AshutoshSingh21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Aman Sharma! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Ashutosh Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Currently doing Masters of Computer Application (MCA) from NIT Agartala 
 </em></p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://x.com/intent/follow?screen_name=xcruzhd2)
-[![Linkedin: Aman](https://img.shields.io/badge/-Aman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/aman-sharma-38aa5b251/)](https://www.linkedin.com/in/aman-sharma-38aa5b251/)
-![GitHub followers](https://img.shields.io/github/followers/amansharma999?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Portfolio-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://xcruz.ml/)](https://xcruz.ml/)
+[![Linkedin: Ashutosh](https://img.shields.io/badge/-Ashutosh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/ashutosh-singh-94b886249/)](https://www.linkedin.com/in/ashutosh-singh-94b886249/)
+![GitHub followers](https://img.shields.io/github/followers/AshutoshSingh21?label=Follow&style=social)
+
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=amansharma999.amansharma999) -->
-<!-- ![Waka Readme](https://github.com/amansharma999/amansharma999/workflows/Waka%20Readme/badge.svg) -->
+<!-- ![Waka Readme](https://github.com/AshutoshSingh21/AshutoshSingh21/workflows/Waka%20Readme/badge.svg) -->
 
 ## 💫 About Me
 * 🔭  CSE Graduate
 * 🌱  Love to work on new languages and platforms
 * 😄  Love programming and reverse engineering
-* 📫  Know more about me: https://xcruz.ml
+
 <!-- * ⚡  Introvert who sometimes go into deep thoughts about life and things -->
 
 
@@ -38,16 +31,16 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 👇 Hit in your console or terminal to connect with me.
 
 <!-- ```bash
-npx xcruzhd2
+
 ```
 **👆 This command line tool can be found at [npx xcruzhd2](https://github.com/anmol098/npx_card)** -->
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const xcruzhd2 = {
+const ashu = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "c/c++"],
+    code: ["Javascript", "c/c++"],
     askMeAbout: ["web dev", "tech"],
     technologies: {
         backEnd: {
@@ -56,9 +49,9 @@ const xcruzhd2 = {
         
         
         databases: ["mongo", "MySql"],
-        misc: ["Firebase", "Socket.IO", "selenium"]
+        misc: ["Firebase"]
     },
-    architecture: ["Microservice Architecture", "Progressive web applications", "Single page applications"],
+    architecture: [ "Progressive web applications", "Single page applications"],
     currentFocus: "No Focus point at this time",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
